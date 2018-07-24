@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IoTFrameworkDemo</string>
+    <string name="FACEBOOK_APP_ID">1857237500999654</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">dcc2e568e00867ef2e944943f7cc0caf</string>
+
+    // if your Facebook App ID is 1234567, you should use ak1234567
+    <string name="ak_login_protocol_scheme">ak1857237500999654</string>
+
+</resources>
